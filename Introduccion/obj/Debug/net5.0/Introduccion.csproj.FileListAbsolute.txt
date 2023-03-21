@@ -1,0 +1,16 @@
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\Introduccion.exe
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\Introduccion.deps.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\Introduccion.runtimeconfig.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\Introduccion.runtimeconfig.dev.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\Introduccion.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\ref\Introduccion.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\bin\Debug\net5.0\Introduccion.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.AssemblyInfo.cs
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\ref\Introduccion.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Introduccion\obj\Debug\net5.0\Introduccion.genruntimeconfig.cache

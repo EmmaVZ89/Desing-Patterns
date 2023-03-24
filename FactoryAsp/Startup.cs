@@ -8,6 +8,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Tools.Earn;
 
 namespace FactoryAsp
 {
@@ -24,6 +25,17 @@ namespace FactoryAsp
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddTransient((factory) =>
+            {
+                return new LocalEarnFactory(Configuration.GetSection("MyConfig").GetValue<decimal>("LocalPercentage"));
+            });
+            services.AddTransient((factory) =>
+            {
+                return new ForeignEarnFactory(Configuration
+                    .GetSection("MyConfig").GetValue<decimal>("ForeignPercentage"),
+                    Configuration
+                    .GetSection("MyConfig").GetValue<decimal>("Extra"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

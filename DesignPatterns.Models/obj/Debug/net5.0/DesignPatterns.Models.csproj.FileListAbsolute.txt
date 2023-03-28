@@ -4,6 +4,7 @@ C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.M
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.dll
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\bin\Debug\net5.0\ref\DesignPatterns.Models.dll
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\bin\Debug\net5.0\DesignPatterns.Models.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.AssemblyReference.cache
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfoInputs.cache
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.AssemblyInfo.cs
@@ -12,4 +13,3 @@ C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.M
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\ref\DesignPatterns.Models.dll
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.pdb
 C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.genruntimeconfig.cache
-C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\DesignPatterns.Models\obj\Debug\net5.0\DesignPatterns.Models.csproj.AssemblyReference.cache

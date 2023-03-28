@@ -9,9 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Repository",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesignPatterns.Models", "..\DesignPatterns.Models\DesignPatterns.Models.csproj", "{A6C63976-880B-4B7E-A3D7-8D8930E1F843}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepositoryAsp", "..\RepositoryAsp\RepositoryAsp.csproj", "{6BF6536A-4581-47BD-B128-CE4F722C5936}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RepositoryAsp", "..\RepositoryAsp\RepositoryAsp.csproj", "{6BF6536A-4581-47BD-B128-CE4F722C5936}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tools", "..\Tools\Tools.csproj", "{57C16823-07AC-468B-BE2C-29DBFAB7BED2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitOfWork", "..\UnitOfWork\UnitOfWork.csproj", "{87A4DEF8-3152-4F7B-8DE2-C6B44FF8C1B2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{57C16823-07AC-468B-BE2C-29DBFAB7BED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57C16823-07AC-468B-BE2C-29DBFAB7BED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57C16823-07AC-468B-BE2C-29DBFAB7BED2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87A4DEF8-3152-4F7B-8DE2-C6B44FF8C1B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A4DEF8-3152-4F7B-8DE2-C6B44FF8C1B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A4DEF8-3152-4F7B-8DE2-C6B44FF8C1B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A4DEF8-3152-4F7B-8DE2-C6B44FF8C1B2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

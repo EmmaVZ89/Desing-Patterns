@@ -28,19 +28,45 @@ namespace Repository
             //}
 
             // CON GENERIC
-            using (var context = new DesignPatternsContext())
-            {
-                var beerRepository = new Repository<Beer>(context);
-                var beer = new Beer() { Name = "Fuller", Style = "Strong Ale" };
-                beerRepository.Add(beer);
-                //beerRepository.Save();
+            //using (var context = new DesignPatternsContext())
+            //{
+            //    var beerRepository = new Repository<Beer>(context);
+            //    var beer = new Beer() { Name = "Fuller", Style = "Strong Ale" };
+            //    beerRepository.Add(beer);
+            //    //beerRepository.Save();
 
-                foreach (var b in beerRepository.Get())
-                {
-                    Console.WriteLine($"{b.BeerId} {b.Name}");
-                }
+            //    foreach (var b in beerRepository.Get())
+            //    {
+            //        Console.WriteLine($"{b.BeerId} {b.Name}");
+            //    }
 
-            }
+            //}
+
+
+            // UNIT OF WORK
+            //using (var context = new DesignPatternsContext())
+            //{
+            //    var unitOfWork = new UnitOfWork(context);
+
+            //    var beers = unitOfWork.Beers;
+            //    var beer = new Beer()
+            //    {
+            //        Name = "Fuller",
+            //        Style = "Porter"
+            //    };
+
+            //    beers.Add(beer);
+
+            //    var brands = unitOfWork.Brands;
+            //    var brand = new Brand()
+            //    {
+            //        Name = "Fuller"
+            //    };
+
+            //    brands.Add(brand);
+
+            //    unitOfWork.Save();
+            //}
 
             Console.ReadKey();
         }

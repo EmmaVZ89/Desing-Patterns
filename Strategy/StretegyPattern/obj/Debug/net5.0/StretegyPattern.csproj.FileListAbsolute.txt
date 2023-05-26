@@ -1,0 +1,16 @@
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\StretegyPattern.exe
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\StretegyPattern.deps.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\StretegyPattern.runtimeconfig.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\StretegyPattern.runtimeconfig.dev.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\StretegyPattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\ref\StretegyPattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\bin\Debug\net5.0\StretegyPattern.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.AssemblyInfo.cs
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\ref\StretegyPattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\Strategy\StretegyPattern\obj\Debug\net5.0\StretegyPattern.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\StatePattern.exe
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\StatePattern.deps.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.dev.json
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\StatePattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\ref\StatePattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\bin\Debug\net5.0\StatePattern.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfo.cs
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\ref\StatePattern.dll
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.pdb
+C:\Users\Note\Desktop\Learn\Patrones de diseño\Desing-Patterns\State\StatePattern\obj\Debug\net5.0\StatePattern.genruntimeconfig.cache
